@@ -27,3 +27,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 and update the dataset path in the notebook to point to your local copy of
 `california_housing_train.csv`.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
